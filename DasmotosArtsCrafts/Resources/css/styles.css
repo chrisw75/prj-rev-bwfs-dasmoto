@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+.dasmoto {
+  background-image: url("../images/pattern.jpg");
+}
+.brushes {
+  background-color: mediumspringgreen;
+}
+.frames {
+  background-color: lightcoral;
+}
+.paint {
+  background-color: skyblue;
+}
+.startingPrice {
+  font-weight: bold;
+  color: blue;
+}
